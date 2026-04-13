@@ -19,7 +19,6 @@ const UserForm = ({ onSubmit, selectedUser, onCancel }) => {
   }, [selectedUser]);
 
   const handleChange = (e) => {
-    debugger;
     const { name, value } = e.target;
     setFormData({ ...formData, [name]: value });
   };
