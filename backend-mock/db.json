@@ -1,0 +1,91 @@
+{
+  "usuarios": [
+    {
+      "id": "1",
+      "nombre": "Dr. Liliana Altamar",
+      "email": "maximomercado@colegio.edu.co",
+      "rol": "rector",
+      "estado": "activo"
+    },
+    {
+      "id": "2",
+      "nombre": "Profe Lina Marcela Guzmán Muñoz",
+      "email": "linamarcelaguzmanmunoz@colegio.edu.co",
+      "rol": "docente",
+      "estado": "activo"
+    },
+    {
+      "id": "3",
+      "nombre": "Juan Estudiante",
+      "email": "juan.est@colegio.edu.co",
+      "rol": "estudiante",
+      "estado": "activo"
+    },
+    {
+      "id": "4",
+      "nombre": "Carlos Padre",
+      "email": "carlos.padre@gmail.com",
+      "rol": "padre",
+      "estado": "activo"
+    }
+  ],
+  "instituciones": [
+    {
+      "id": "1",
+      "nombre": "Institución Educativa Central",
+      "ubicacion": "Bogotá, Colombia",
+      "tipo": "Pública"
+    }
+  ],
+  "practicas": [
+    {
+      "id": "1",
+      "institucionId": "1",
+      "nombre": "Práctica de Aula 2026-1",
+      "fechaInicio": "2026-02-01",
+      "fechaFin": "2026-06-30",
+      "descripcion": "Observación de procesos en primaria"
+    }
+  ],
+  "diarios": [
+    {
+      "id": "1",
+      "practicaId": "1",
+      "fecha": "2026-04-09",
+      "descripcion": "Inicio de observación en grado 5to.",
+      "interpretacion": "Los estudiantes muestran gran interés en el juego cooperativo.",
+      "reflexion": "Es necesario ajustar el tiempo de las actividades grupales."
+    },
+    {
+      "numero_diario": "1",
+      "fecha": "2026-04-01",
+      "institucion": "Maximo Mercado ",
+      "practica": "Familia Escuela y comunidad",
+      "descripcion": "La visita de observación administrativa a la\ninstitución educativa máximo mercado, ubicado en\nel municipio de Sabanalarga (Atlántico), barrio la\nconcepción, permitió conocer de manera directa las\ncondiciones en las que se desarrolla la atención a la\nprimera infancia. Se evidencio que el hogar funciona\nen una casa adecuada para el servicio, con zonas\nhabilitadas para el trabajo con niñas y niños.\nActualmente atiende a trece niños y niñas en total\n(seis niñas y siete niños), todos entre 7 y 8 años de\nedad. Los espacios disponibles, si bien permiten el\nfuncionamiento básico, requieren optimizar su uso\npara responder mejor a las necesidades de juego y\nestimulación.\nDurante la observación se dialogó con la\nresponsable del salón 2ª\n, quien explicó el\nfuncionamiento general, ",
+      "interpretacion": "La metodología observacional es\naquel procedimiento encaminado\na articular una percepción\ndeliberada de la realidad\nmanifiesta con su adecuada\ninterpretación, captando su\nsignificado de forma que,\nmediante un registro objetivo,\nsistemático y específico de la\nconducta generada de forma\nespontánea en un determinado\ncontexto, y una vez se ha\nsometido a una adecuada\ncodificación y análisis, se\nencuentren resultados válidos\ndentro de un marco específico de\nconocimiento (ANGUERA, 1988,\npp. 7).\n",
+      "reflexion": "La experiencia de\nobservación en la\ninstitución educativa\nmáximo mercado fue\nenriquecedora al permitir\napreciar de cerca la\ndinámica pedagógica .\nDesde la observación sin\naplicación de instrumentos\nformales ni intervención se\nevidenció una gestión\norientada al bienestar y al\ndesarrollo integral de niñas\ny niños de 7 a 8 años. Se\nobservaron organización de\nprocesos de atención, ",
+      "evidencias": [
+        "blob:http://localhost:4200/f50038b0-6925-4d5a-881c-081c0deb92ac",
+        "blob:http://localhost:4200/d31d773c-b043-48ea-b24e-2ad021759ea2",
+        "blob:http://localhost:4200/f3f253b9-8f23-4da4-a65c-a70fd8df6004",
+        "blob:http://localhost:4200/3e4223b0-05f6-4594-9a0b-6c8a936995c2"
+      ],
+      "id": "OpXHgfs"
+    }
+  ],
+  "estudiantes": [
+    {
+      "id": "1",
+      "nombre": "Juan Pérez",
+      "edad": 10,
+      "grupo": "5A",
+      "institucionId": "1"
+    }
+  ],
+  "dashboard-stats": {
+    "diariosRegistrados": 5,
+    "alertasActivas": 2,
+    "sincronizado": true,
+    "ultimaSincronizacion": "2026-04-10T08:00:00Z"
+  }
+}
