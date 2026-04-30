@@ -54,6 +54,7 @@ npx ng serve
 ## Configuración de Entorno
 El frontend utiliza el backend simulado. Asegúrese de que el `apiUrl` apunte a `http://localhost:3001`.
 
+
 ## Mantenimiento de Documentación
 Es OBLIGATORIO actualizar los archivos en `/docs` durante cada iteración:
 - `MODULE_REGISTRY.md`: Registrar cada nuevo módulo Angular creado.

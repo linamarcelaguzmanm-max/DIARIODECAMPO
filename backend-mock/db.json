@@ -49,14 +49,6 @@
   ],
   "diarios": [
     {
-      "id": "1",
-      "practicaId": "1",
-      "fecha": "2026-04-09",
-      "descripcion": "Inicio de observación en grado 5to.",
-      "interpretacion": "Los estudiantes muestran gran interés en el juego cooperativo.",
-      "reflexion": "Es necesario ajustar el tiempo de las actividades grupales."
-    },
-    {
       "numero_diario": "1",
       "fecha": "2026-04-01",
       "institucion": "Maximo Mercado ",
@@ -71,6 +63,54 @@
         "blob:http://localhost:4200/3e4223b0-05f6-4594-9a0b-6c8a936995c2"
       ],
       "id": "OpXHgfs"
+    },
+    {
+      "numero_diario": "2",
+      "fecha": "2026-03-15",
+      "institucion": "Maximo mercado",
+      "practica": "FAMILIA ESCUELA Y COMUNIDAD",
+      "descripcion": "Durante la jornada de observación en el aula de clase, se desarrollaron actividades relacionadas con la participación democrática de los estudiantes. Se evidenció que los niños y niñas participaron en la construcción de acuerdos de convivencia, donde expresaron sus opiniones sobre normas, respeto y trabajo en equipo.\n\nSe realizó una dinámica de votación para elegir al representante del grupo, en la cual cada estudiante tuvo la oportunidad de postularse o apoyar a un compañero. Se observó el uso de estrategias como el diálogo, la escucha activa y el respeto por la opinión de los demás.\n\nAsimismo, el docente promovió espacios de participación mediante preguntas abiertas, incentivando a los estudiantes a reflexionar sobre la importancia de tomar decisiones colectivas.\n\n\n\nEL DIA DEL AGUA # 3 \n\nDurante la jornada pedagógica, se llevó a cabo una actividad conmemorativa del Día Mundial del Agua con los estudiantes del grado correspondiente. La actividad inició con una conversación guiada en la que se indagaron los conocimientos previos de los niños y niñas sobre el agua, su importancia y sus usos en la vida cotidiana.\n\nLos estudiantes participaron activamente, mencionando ejemplos como el consumo diario, el aseo personal, el riego de plantas y la limpieza del hogar. Posteriormente, se proyectó un video educativo sobre el cuidado del agua, en el cual se evidenciaron problemáticas como la contaminación y el desperdicio de este recurso natural.\n\nLuego, se desarrollaron actividades lúdicas como dibujos, dramatizaciones y juegos de roles donde los niños representaban acciones correctas e incorrectas en el uso del agua. También se realizó una dinámica grupal en la que los estudiantes propusieron normas para el cuidado del agua dentro de la institución, tales como cerrar bien los grifos, no desperdiciar agua al lavarse las manos y cuidar los espacios naturales.\n\n\n",
+      "interpretacion": "La democracia en el contexto escolar se entiende como un proceso formativo que permite a los estudiantes desarrollar habilidades sociales, comunicativas y éticas. A través de la participación activa, los niños aprenden a respetar las opiniones de los demás, a tomar decisiones en grupo y a asumir responsabilidades dentro de la comunidad educativa.\nEL DIA DEL AGUA\nLa actividad desarrollada se enmarca en la educación ambiental como un proceso formativo que busca generar conciencia en los estudiantes sobre la importancia del cuidado de los recursos naturales. Según la UNESCO (2017), la educación para el desarrollo sostenible promueve la adquisición de conocimientos, valores y actitudes que permiten a las personas actuar de manera responsable frente al medio ambiente.\n\nAsimismo, desde la perspectiva de Ausubel (1983), el aprendizaje significativo ocurre cuando los nuevos conocimientos se relacionan con los saberes previos del estudiante. En este caso, la indagación inicial permitió conectar la experiencia cotidiana de los niños con los conceptos relacionados con el uso y cuidado del agua, facilitando una comprensión más profunda.\n\nPor otro lado, Vygotsky (1978) plantea que el aprendizaje es un proceso social que se construye a través de la interacción con otros. Las actividades grupales, como el mural y las dramatizaciones, favorecieron la participación activa, el intercambio de ideas y la construcción colectiva del conocimiento.\n\nDe igual forma, la propuesta pedagógica se relaciona con los planteamientos de Paulo Freire (1970), quien resalta la importancia de una educación crítica y reflexiva que permita a los estudiantes tomar conciencia de su realidad y transformarla. En este sentido, las actividades realizadas no solo informaron sobre el cuidado del agua, sino que promovieron una actitud responsable frente a su uso.\n\n\n",
+      "reflexion": "La experiencia evidenció que la democracia no debe enseñarse únicamente desde la teoría, sino desde la práctica diaria en el aula. Las actividades observadas permitieron que los estudiantes se sintieran escuchados y valorados, lo cual fortalece su autoestima y su compromiso con el grupo.\n\nSin embargo, se identifican oportunidades de mejora, como seguir fortaleciendo la participación de todos los estudiantes, especialmente de aquellos más tímidos, y promover estrategias que garanticen una inclusión equitativa.\n\nEn este sentido, es fundamental implementar actividades lúdicas como debates, juegos de roles, asambleas de aula y proyectos colaborativos, que permitan consolidar una cultura democrática desde la infancia. Esto contribuirá a formar ciudadanos críticos, responsables y comprometidos con su entorno social.\n\nEL DIA DEL AGUA \n\nLa experiencia pedagógica permitió evidenciar que los estudiantes muestran gran interés por temas relacionados con el medio ambiente, especialmente cuando las actividades se desarrollan de manera lúdica y participativa. El uso de estrategias como videos, juegos y actividades artísticas facilitó la comprensión del tema y promovió la participación activa de todos los niños y niñas.\n\nSe observó que los estudiantes lograron identificar la importancia del agua y reconocer algunas prácticas inadecuadas relacionadas con su uso. Sin embargo, también se evidenció la necesidad de reforzar estos aprendizajes de manera continua, ya que el cambio de hábitos requiere procesos formativos constantes.\n\nEn este sentido, es fundamental que la educación ambiental no se limite a fechas conmemorativas, sino que se integre de manera transversal en el currículo, promoviendo acciones concretas dentro y fuera del aula. Asimismo, se considera pertinente involucrar a las familias en este proceso, con el fin de fortalecer los hábitos de cuidado del agua en el contexto familiar.\n",
+      "evidencias": [
+        "blob:http://localhost:4200/ccf17c98-4279-4ce2-90c9-ef49f75b39df",
+        "blob:http://localhost:4200/fb7d5d67-c160-44eb-bf1d-8a371ceef360",
+        "blob:http://localhost:4200/a5793203-cd4f-419a-b634-7bb65b40e43b",
+        "blob:http://localhost:4200/7816e809-3bf0-4519-b20f-305ce1f4bc15",
+        "blob:http://localhost:4200/3a8241cc-ee09-4e02-84a0-8ac6fb379e96",
+        "blob:http://localhost:4200/f00d9b15-01f6-4e3a-b8a5-407d47a727ff"
+      ],
+      "id": "0NxTIfU"
+    },
+    {
+      "numero_diario": "8",
+      "fecha": "2026-04-30",
+      "institucion": "MAXIMO MERCADO",
+      "practica": "FAMILIA ESCUELA Y COMUNIDAD",
+      "descripcion": "Descripción\nDurante la jornada pedagógica se desarrolló una actividad enfocada en la educación emocional a través de la estrategia denominada “El árbol de las emociones”. La docente inició la actividad explorando los conocimientos previos de los estudiantes, preguntando qué entendían por emociones y cómo las expresaban en su vida cotidiana.\n\nPosteriormente, se presentó un árbol elaborado en material didáctico, donde cada estudiante debía ubicar hojas de diferentes colores, representando emociones como la alegría, tristeza, enojo, miedo y calma. Se explicó el significado de cada color y se motivó a los estudiantes a compartir experiencias relacionadas con dichas emociones.\n\nDurante la actividad, los estudiantes participaron activamente, expresando situaciones personales y reconociendo cómo reaccionan ante distintas emociones. Se promovió el respeto por las opiniones de los demás y la escucha activa dentro del grupo.",
+      "interpretacion": "Interpretación\nLa estrategia del árbol de las emociones se fundamenta en el desarrollo de habilidades socioemocionales, las cuales son esenciales para el bienestar y la convivencia escolar. Según Rafael Bisquerra, la educación emocional permite reconocer, comprender y regular las emociones, favoreciendo el desarrollo integral de los estudiantes.\n\nDesde la perspectiva de Lev Vygotsky, el aprendizaje se construye a través de la interacción social, lo cual se evidenció en la actividad, ya que los estudiantes aprendieron al compartir experiencias y escuchar a sus compañeros.\n\nEl árbol de las emociones funciona como una herramienta visual y simbólica que facilita la identificación emocional, promoviendo la autorreflexión y el fortalecimiento de la inteligencia emocional en los estudiantes.",
+      "reflexion": "Reflexión\nLa experiencia permitió evidenciar que los estudiantes responden de manera positiva a estrategias didácticas dinámicas y visuales como el árbol de las emociones, ya que les facilita expresar lo que sienten de forma clara y significativa.\n\nSe observó que los estudiantes lograron identificar sus emociones y asociarlas con situaciones reales, fortaleciendo su capacidad de autorregulación y empatía. Asimismo, se evidenció un ambiente de respeto y confianza durante el desarrollo de la actividad.\n\nSin embargo, es necesario continuar fortaleciendo este tipo de estrategias de manera constante, para que los estudiantes desarrollen habilidades emocionales más sólidas y logren aplicarlas en su vida diaria y en la convivencia escolar.",
+      "evidencias": [
+        "blob:http://localhost:4200/5f9ef533-1ffa-4825-8cf4-0f0935abe040",
+        "blob:http://localhost:4200/993a5431-bbd3-403f-bbf2-2241c90ef529",
+        "blob:http://localhost:4200/a6952fb3-3c10-4ae1-9965-704dfe5d401e",
+        "blob:http://localhost:4200/149dcd3e-01ab-4780-a7b3-7b708c588bd9"
+      ],
+      "id": "tdNTjAv"
+    },
+    {
+      "numero_diario": "9",
+      "fecha": "2026-05-04",
+      "institucion": "MAXIMO MERCADO",
+      "practica": "FAMILIA ESCUELA Y COMUNIDAD",
+      "descripcion": "Descripción\nDurante la jornada pedagógica se desarrolló una actividad orientada al fortalecimiento del respeto por la opinión de los demás. La docente inició con una conversación grupal en la que preguntó a los estudiantes qué entendían por “respetar” y por qué es importante escuchar a otras personas, incluso cuando no se está de acuerdo.\n\nPosteriormente, se realizó una dinámica de participación en la que los estudiantes debían expresar su opinión sobre diferentes temas cotidianos (como juegos, normas del aula o actividades favoritas), mientras sus compañeros escuchaban sin interrumpir. Se establecieron acuerdos previos como levantar la mano para hablar, no burlarse y respetar turnos.\n\nDurante la actividad, algunos estudiantes mostraron dificultad para aceptar opiniones diferentes, evidenciando interrupciones o gestos de desacuerdo. Sin embargo, con la orientación de la docente, se promovió el diálogo, la escucha activa y el reconocimiento de la diversidad de pensamientos dentro del grupo.",
+      "interpretacion": "Interpretación\nLa actividad se fundamenta en el desarrollo de habilidades sociales y valores como el respeto, la tolerancia y la empatía. Según Lev Vygotsky, el aprendizaje se construye a través de la interacción social, lo que resalta la importancia de generar espacios donde los estudiantes puedan intercambiar ideas y aprender unos de otros.\n\nAsimismo, el respeto por la opinión ajena es clave en la formación de ciudadanos críticos y participativos. De acuerdo con Lawrence Kohlberg, el desarrollo moral implica comprender normas sociales y actuar con base en principios como la justicia y el respeto mutuo.\n\nLa estrategia permitió evidenciar que el diálogo guiado y las normas claras favorecen la convivencia y el reconocimiento de la diversidad de pensamientos en el aula.",
+      "reflexion": "Reflexión\nLa experiencia permitió observar que los estudiantes están en proceso de aprender a escuchar y respetar opiniones diferentes a las propias. Aunque algunos presentaron dificultades iniciales, se evidenciaron avances en la capacidad de esperar turnos y aceptar puntos de vista distintos.\n\nSe concluye que es fundamental continuar implementando actividades que fomenten el diálogo, la participación y el respeto, ya que estas habilidades contribuyen a una mejor convivencia escolar.\n\nComo docente, es importante reforzar constantemente las normas de respeto y promover espacios seguros donde los estudiantes se sientan valorados al expresar sus ideas, fortaleciendo así su desarrollo social y emocional.",
+      "evidencias": [
+        "blob:http://localhost:4200/9cb0457b-c16f-40ed-b164-5a48ce5524aa",
+        "blob:http://localhost:4200/80241533-b2e9-48c8-a9a4-b74aa33f9a70"
+      ],
+      "id": "neyi6pY"
     }
   ],
   "estudiantes": [
