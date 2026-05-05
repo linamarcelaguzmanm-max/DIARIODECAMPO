@@ -1,16 +1,17 @@
 # Node.js
-node_modules/
+**/node_modules/
 npm-debug.log
 yarn-error.log
 
 # Build output
-dist/
-build/
-out/
+**/dist/
+**/build/
+**/out/
+**/.next/
 
 # Caches
-.vite/
-.angular/
+**/.vite/
+**/.angular/
 
 # IDE and OS files
 .vscode/
