@@ -4,7 +4,7 @@ Repositorio base para el desarrollo del proyecto diarioCampo, estructurado en do
 
 ## Estructura del Repositorio
 - `/docs`: Documentación estratégica persistente y contratos de API.
-- `/frontend-mockup`: Prototipo funcional (Fase 1) desarrollado en Angular 18.
+- `/frontend-mockup`: Prototipo funcional (Fase 1) desarrollado en React + Vite.
 - `/backend-mock`: API simulada con JSON Server para pruebas.
 - `/shared`: Directorio para lógica o modelos compartidos.
 - `/scripts`: Scripts de automatización y utilidad.
@@ -14,7 +14,6 @@ Repositorio base para el desarrollo del proyecto diarioCampo, estructurado en do
 ## Requisitos
 - **Node.js**: v20.13.1+ (Se recomienda usar la versión integrada de VS si no está en PATH).
 - **npm**: v10.5.2+.
-- **Angular CLI**: v18.
 
 ---
 
@@ -44,12 +43,9 @@ npm run start
 ```bash
 cd frontend-mockup
 npm install
-# Si tienes Angular CLI global:
-ng serve
-# O usando npx:
-npx ng serve
+npm run dev
 ```
-- **URL**: `http://localhost:4200`
+- **URL**: `http://localhost:5173`
 
 ## Configuración de Entorno
 El frontend utiliza el backend simulado. Asegúrese de que el `apiUrl` apunte a `http://localhost:3001`.
